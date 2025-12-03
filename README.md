@@ -4,8 +4,8 @@
 **Definition**: Cloud Computing is the on-demand delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet ("the cloud") with pay-as-you-go pricing.
 ### 2. Essential Characteristics (NIST - National Institute of Standards and Technology, Definition)
  * **On-Demand Self-Service**: Consumers can unilaterally provision computing capabilities, such as server time and network storage, without requiring human interaction with each service provider.
- * Broad Network Access: Capabilities are available over the network and accessed through standard mechanisms (e.g., mobile phones, laptops).
- * Resource Pooling: The provider's computing resources are pooled to serve multiple consumers using a multi-tenant model, with resources dynamically assigned and reassigned according to consumer demand. (e.g., storage, processing, memory, network bandwidth).
+ * **Broad Network Access**: Capabilities are available over the network and accessed through standard mechanisms (e.g., mobile phones, laptops).
+ * **Resource Pooling**: The provider's computing resources are pooled to serve multiple consumers using a multi-tenant model, with resources dynamically assigned and reassigned according to consumer demand. (e.g., storage, processing, memory, network bandwidth).
  *** Rapid Elasticity**: Capabilities can be rapidly and elastically provisioned and released, sometimes automatically, to scale rapidly outward and inward commensurate with demand.
  * **Measured Service**: Cloud systems automatically control and optimize resource usage by leveraging a metering capability. Resources are monitored, controlled, and reported, providing transparency for both the provider and consumer.
 ### 3. The Business Case for Cloud
